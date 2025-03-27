@@ -8,4 +8,5 @@ Rohan, [please put your major here]
 
 Liam, [what is your favorite color]
 
+Yanding, blue
 press enter below this line and say your last name followed by your favorite color
