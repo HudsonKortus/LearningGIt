@@ -1,4 +1,5 @@
 # LearningGIt
+make a new branch to contain this feature
 
 Please enter your name on the line below here:
 [your name]
